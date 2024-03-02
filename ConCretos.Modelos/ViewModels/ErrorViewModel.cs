@@ -1,4 +1,4 @@
-namespace ConCretos.Models
+namespace ConCretos.Modelos.ViewModels
 {
     public class ErrorViewModel
     {
