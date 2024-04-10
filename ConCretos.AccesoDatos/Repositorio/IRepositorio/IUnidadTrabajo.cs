@@ -10,6 +10,9 @@ namespace ConCretos.AccesoDatos.Repositorio.IRepositorio
     {
         //Aqui se van gregar todos los nuevos modelos
         IBodegaRepositorio Bodega { get; }
+        ICategoriaRepositorio Categoria { get; }
+
+        IMarcaRepositorio Marca { get; }
         Task Guardar();
     }
 

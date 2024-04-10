@@ -8,5 +8,7 @@ namespace ConCretos.Utilidades
 {
     public class DS
     {
+        public const string Exitosa = "Exitosa";
+        public const string Error = "Error";
     }
 }
